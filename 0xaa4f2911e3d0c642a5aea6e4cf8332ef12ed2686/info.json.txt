@@ -1,0 +1,11 @@
+{
+ "name": "PeopleKing",
+ "website": "http://peopleking.online/",
+ "description": "A meta KING for Web3 to unite $PEOPLE across the globe and deliver positive impact.",
+ "explorer": "https://bscscan.com/address/0xaa4f2911e3d0c642a5aea6e4cf8332ef12ed2686",
+ "type": "BEP20",
+ "symbol": "PeopleKing",
+ "decimals": 5,
+ "status": "active",
+ "id": "0xaa4f2911e3d0c642a5aea6e4cf8332ef12ed2686"
+}
