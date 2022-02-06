@@ -1,0 +1,11 @@
+{
+ "name": "Olympic Pin",
+ "website": "https://OlympicPin.online",
+ "description": "we are the champion.",
+ "explorer": "https://bscscan.com/token/0xcdcc83802f1a6a580d890d38621a3064d219be0a",
+ "type": "BEP20",
+ "symbol": "Olympic Pin",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xcdcc83802f1a6a580d890d38621a3064d219be0a"
+}
